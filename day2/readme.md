@@ -8,6 +8,7 @@ Their password database seems to be a little corrupted: some of the passwords wo
 To try to debug the problem, they have created a list (your puzzle input) of passwords (according to the corrupted database) and the corporate policy when that password was set.
 
 For example, suppose you have the following list:
+
     1-3 a: abcde
     1-3 b: cdefg
     2-9 c: ccccccccc
